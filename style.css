@@ -863,7 +863,7 @@ p {
         margin: 0 50px 38px 50px;
     }
 }
-@media(max-width:400px){
+@media(max-width:415px){
     .wrapper{
         max-width: 400px;
         width: 100%;
@@ -927,4 +927,5 @@ p {
     .links{
         align-items: normal;
     }
+
 }
